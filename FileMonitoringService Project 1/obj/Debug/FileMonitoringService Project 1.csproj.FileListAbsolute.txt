@@ -1,0 +1,18 @@
+F:\Programing Projects\Abo_Hadhod\z 24 That Last Course\FileMonitoringService Project 1\bin\Debug\FileMonitoringService Project 1.exe.config
+F:\Programing Projects\Abo_Hadhod\z 24 That Last Course\FileMonitoringService Project 1\bin\Debug\FileMonitoringService Project 1.exe
+F:\Programing Projects\Abo_Hadhod\z 24 That Last Course\FileMonitoringService Project 1\bin\Debug\FileMonitoringService Project 1.pdb
+F:\Programing Projects\Abo_Hadhod\z 24 That Last Course\FileMonitoringService Project 1\obj\Debug\FileMonitoringService Project 1.csproj.AssemblyReference.cache
+F:\Programing Projects\Abo_Hadhod\z 24 That Last Course\FileMonitoringService Project 1\obj\Debug\FileMonitoringService_Project_1.ProjectInstaller.resources
+F:\Programing Projects\Abo_Hadhod\z 24 That Last Course\FileMonitoringService Project 1\obj\Debug\FileMonitoringService Project 1.csproj.GenerateResource.cache
+F:\Programing Projects\Abo_Hadhod\z 24 That Last Course\FileMonitoringService Project 1\obj\Debug\FileMonitoringService Project 1.csproj.CoreCompileInputs.cache
+F:\Programing Projects\Abo_Hadhod\z 24 That Last Course\FileMonitoringService Project 1\obj\Debug\FileMonitoringService Project 1.exe
+F:\Programing Projects\Abo_Hadhod\z 24 That Last Course\FileMonitoringService Project 1\obj\Debug\FileMonitoringService Project 1.pdb
+F:\Programing Projects\Abo_Hadhod\z 24 That Last Course\FileMonitoring Project\FileMonitoringService Project 1\bin\Debug\FileMonitoringService Project 1.exe.config
+F:\Programing Projects\Abo_Hadhod\z 24 That Last Course\FileMonitoring Project\FileMonitoringService Project 1\bin\Debug\FileMonitoringService Project 1.exe
+F:\Programing Projects\Abo_Hadhod\z 24 That Last Course\FileMonitoring Project\FileMonitoringService Project 1\bin\Debug\FileMonitoringService Project 1.pdb
+F:\Programing Projects\Abo_Hadhod\z 24 That Last Course\FileMonitoring Project\FileMonitoringService Project 1\obj\Debug\FileMonitoringService Project 1.csproj.AssemblyReference.cache
+F:\Programing Projects\Abo_Hadhod\z 24 That Last Course\FileMonitoring Project\FileMonitoringService Project 1\obj\Debug\FileMonitoringService_Project_1.ProjectInstaller.resources
+F:\Programing Projects\Abo_Hadhod\z 24 That Last Course\FileMonitoring Project\FileMonitoringService Project 1\obj\Debug\FileMonitoringService Project 1.csproj.GenerateResource.cache
+F:\Programing Projects\Abo_Hadhod\z 24 That Last Course\FileMonitoring Project\FileMonitoringService Project 1\obj\Debug\FileMonitoringService Project 1.csproj.CoreCompileInputs.cache
+F:\Programing Projects\Abo_Hadhod\z 24 That Last Course\FileMonitoring Project\FileMonitoringService Project 1\obj\Debug\FileMonitoringService Project 1.exe
+F:\Programing Projects\Abo_Hadhod\z 24 That Last Course\FileMonitoring Project\FileMonitoringService Project 1\obj\Debug\FileMonitoringService Project 1.pdb
