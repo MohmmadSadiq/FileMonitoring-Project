@@ -1,26 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\Programing Projects\\Abo_Hadhod\\z 24 That Last Course\\FileMonitoringService Project 1\\",
+  "WorkspaceRootPath": "F:\\Programing Projects\\Abo_Hadhod\\z 24 That Last Course\\FileMonitoring Project\\FileMonitoringService Project 1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0CE70D43-6A43-45CF-ABB8-1E0064469B55}|FileMonitoringService Project 1.csproj|F:\\Programing Projects\\Abo_Hadhod\\z 24 That Last Course\\FileMonitoringService Project 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CE70D43-6A43-45CF-ABB8-1E0064469B55}|FileMonitoringService Project 1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0CE70D43-6A43-45CF-ABB8-1E0064469B55}|FileMonitoringService Project 1.csproj|f:\\programing projects\\abo_hadhod\\z 24 that last course\\filemonitoring project\\filemonitoringservice project 1\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE70D43-6A43-45CF-ABB8-1E0064469B55}|FileMonitoringService Project 1.csproj|solutionrelative:projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CE70D43-6A43-45CF-ABB8-1E0064469B55}|FileMonitoringService Project 1.csproj|F:\\Programing Projects\\Abo_Hadhod\\z 24 That Last Course\\FileMonitoringService Project 1\\configservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CE70D43-6A43-45CF-ABB8-1E0064469B55}|FileMonitoringService Project 1.csproj|solutionrelative:configservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0CE70D43-6A43-45CF-ABB8-1E0064469B55}|FileMonitoringService Project 1.csproj|f:\\programing projects\\abo_hadhod\\z 24 that last course\\filemonitoring project\\filemonitoringservice project 1\\filemonitoringservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE70D43-6A43-45CF-ABB8-1E0064469B55}|FileMonitoringService Project 1.csproj|solutionrelative:filemonitoringservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CE70D43-6A43-45CF-ABB8-1E0064469B55}|FileMonitoringService Project 1.csproj|f:\\programing projects\\abo_hadhod\\z 24 that last course\\filemonitoringservice project 1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{0CE70D43-6A43-45CF-ABB8-1E0064469B55}|FileMonitoringService Project 1.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{0CE70D43-6A43-45CF-ABB8-1E0064469B55}|FileMonitoringService Project 1.csproj|f:\\programing projects\\abo_hadhod\\z 24 that last course\\filemonitoring project\\filemonitoringservice project 1\\filemonitoringservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0CE70D43-6A43-45CF-ABB8-1E0064469B55}|FileMonitoringService Project 1.csproj|solutionrelative:filemonitoringservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CE70D43-6A43-45CF-ABB8-1E0064469B55}|FileMonitoringService Project 1.csproj|f:\\programing projects\\abo_hadhod\\z 24 that last course\\filemonitoringservice project 1\\filemonitorhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0CE70D43-6A43-45CF-ABB8-1E0064469B55}|FileMonitoringService Project 1.csproj|F:\\Programing Projects\\Abo_Hadhod\\z 24 That Last Course\\FileMonitoring Project\\FileMonitoringService Project 1\\filemonitorhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0CE70D43-6A43-45CF-ABB8-1E0064469B55}|FileMonitoringService Project 1.csproj|solutionrelative:filemonitorhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CE70D43-6A43-45CF-ABB8-1E0064469B55}|FileMonitoringService Project 1.csproj|F:\\Programing Projects\\Abo_Hadhod\\z 24 That Last Course\\FileMonitoringService Project 1\\applogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0CE70D43-6A43-45CF-ABB8-1E0064469B55}|FileMonitoringService Project 1.csproj|f:\\programing projects\\abo_hadhod\\z 24 that last course\\filemonitoring project\\filemonitoringservice project 1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0CE70D43-6A43-45CF-ABB8-1E0064469B55}|FileMonitoringService Project 1.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE70D43-6A43-45CF-ABB8-1E0064469B55}|FileMonitoringService Project 1.csproj|F:\\Programing Projects\\Abo_Hadhod\\z 24 That Last Course\\FileMonitoring Project\\FileMonitoringService Project 1\\applogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0CE70D43-6A43-45CF-ABB8-1E0064469B55}|FileMonitoringService Project 1.csproj|solutionrelative:applogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE70D43-6A43-45CF-ABB8-1E0064469B55}|FileMonitoringService Project 1.csproj|F:\\Programing Projects\\Abo_Hadhod\\z 24 That Last Course\\FileMonitoring Project\\FileMonitoringService Project 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE70D43-6A43-45CF-ABB8-1E0064469B55}|FileMonitoringService Project 1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE70D43-6A43-45CF-ABB8-1E0064469B55}|FileMonitoringService Project 1.csproj|F:\\Programing Projects\\Abo_Hadhod\\z 24 That Last Course\\FileMonitoring Project\\FileMonitoringService Project 1\\configservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE70D43-6A43-45CF-ABB8-1E0064469B55}|FileMonitoringService Project 1.csproj|solutionrelative:configservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,72 +42,107 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectInstaller.cs",
+              "DocumentMoniker": "F:\\Programing Projects\\Abo_Hadhod\\z 24 That Last Course\\FileMonitoring Project\\FileMonitoringService Project 1\\ProjectInstaller.cs",
+              "RelativeDocumentMoniker": "ProjectInstaller.cs",
+              "ToolTip": "F:\\Programing Projects\\Abo_Hadhod\\z 24 That Last Course\\FileMonitoring Project\\FileMonitoringService Project 1\\ProjectInstaller.cs",
+              "RelativeToolTip": "ProjectInstaller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T20:06:52.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileMonitoringService.cs",
+              "DocumentMoniker": "F:\\Programing Projects\\Abo_Hadhod\\z 24 That Last Course\\FileMonitoring Project\\FileMonitoringService Project 1\\FileMonitoringService.cs",
+              "RelativeDocumentMoniker": "FileMonitoringService.cs",
+              "ToolTip": "F:\\Programing Projects\\Abo_Hadhod\\z 24 That Last Course\\FileMonitoring Project\\FileMonitoringService Project 1\\FileMonitoringService.cs",
+              "RelativeToolTip": "FileMonitoringService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T20:06:34.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileMonitoringService.cs [Design]",
+              "DocumentMoniker": "F:\\Programing Projects\\Abo_Hadhod\\z 24 That Last Course\\FileMonitoring Project\\FileMonitoringService Project 1\\FileMonitoringService.cs",
+              "RelativeDocumentMoniker": "FileMonitoringService.cs",
+              "ToolTip": "F:\\Programing Projects\\Abo_Hadhod\\z 24 That Last Course\\FileMonitoring Project\\FileMonitoringService Project 1\\FileMonitoringService.cs [Design]",
+              "RelativeToolTip": "FileMonitoringService.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T20:06:30.505Z",
+              "EditorCaption": " [Design]"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "FileMonitorHelper.cs",
-              "DocumentMoniker": "F:\\Programing Projects\\Abo_Hadhod\\z 24 That Last Course\\FileMonitoringService Project 1\\FileMonitorHelper.cs",
+              "DocumentMoniker": "F:\\Programing Projects\\Abo_Hadhod\\z 24 That Last Course\\FileMonitoring Project\\FileMonitoringService Project 1\\FileMonitorHelper.cs",
               "RelativeDocumentMoniker": "FileMonitorHelper.cs",
-              "ToolTip": "F:\\Programing Projects\\Abo_Hadhod\\z 24 That Last Course\\FileMonitoringService Project 1\\FileMonitorHelper.cs",
+              "ToolTip": "F:\\Programing Projects\\Abo_Hadhod\\z 24 That Last Course\\FileMonitoring Project\\FileMonitoringService Project 1\\FileMonitorHelper.cs",
               "RelativeToolTip": "FileMonitorHelper.cs",
-              "ViewState": "AgIAADUBAAAAAAAAAAAYwIwBAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAIwBAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-10T10:49:35.947Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "App.config",
-              "DocumentMoniker": "F:\\Programing Projects\\Abo_Hadhod\\z 24 That Last Course\\FileMonitoringService Project 1\\App.config",
+              "DocumentMoniker": "F:\\Programing Projects\\Abo_Hadhod\\z 24 That Last Course\\FileMonitoring Project\\FileMonitoringService Project 1\\App.config",
               "RelativeDocumentMoniker": "App.config",
-              "ToolTip": "F:\\Programing Projects\\Abo_Hadhod\\z 24 That Last Course\\FileMonitoringService Project 1\\App.config",
+              "ToolTip": "F:\\Programing Projects\\Abo_Hadhod\\z 24 That Last Course\\FileMonitoring Project\\FileMonitoringService Project 1\\App.config",
               "RelativeToolTip": "App.config",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAACoAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2026-04-09T19:52:27.948Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "ConfigService.cs",
-              "DocumentMoniker": "F:\\Programing Projects\\Abo_Hadhod\\z 24 That Last Course\\FileMonitoringService Project 1\\ConfigService.cs",
+              "DocumentMoniker": "F:\\Programing Projects\\Abo_Hadhod\\z 24 That Last Course\\FileMonitoring Project\\FileMonitoringService Project 1\\ConfigService.cs",
               "RelativeDocumentMoniker": "ConfigService.cs",
-              "ToolTip": "F:\\Programing Projects\\Abo_Hadhod\\z 24 That Last Course\\FileMonitoringService Project 1\\ConfigService.cs",
+              "ToolTip": "F:\\Programing Projects\\Abo_Hadhod\\z 24 That Last Course\\FileMonitoring Project\\FileMonitoringService Project 1\\ConfigService.cs",
               "RelativeToolTip": "ConfigService.cs",
               "ViewState": "AgIAAKQAAAAAAAAAAAAUwK4AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T19:33:37.315Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-09T19:33:37.315Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Programing Projects\\Abo_Hadhod\\z 24 That Last Course\\FileMonitoringService Project 1\\Program.cs",
+              "DocumentMoniker": "F:\\Programing Projects\\Abo_Hadhod\\z 24 That Last Course\\FileMonitoring Project\\FileMonitoringService Project 1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "F:\\Programing Projects\\Abo_Hadhod\\z 24 That Last Course\\FileMonitoringService Project 1\\Program.cs",
+              "ToolTip": "F:\\Programing Projects\\Abo_Hadhod\\z 24 That Last Course\\FileMonitoring Project\\FileMonitoringService Project 1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAgwAgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T19:32:40.095Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-09T19:32:40.095Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AppLogger.cs",
-              "DocumentMoniker": "F:\\Programing Projects\\Abo_Hadhod\\z 24 That Last Course\\FileMonitoringService Project 1\\AppLogger.cs",
+              "DocumentMoniker": "F:\\Programing Projects\\Abo_Hadhod\\z 24 That Last Course\\FileMonitoring Project\\FileMonitoringService Project 1\\AppLogger.cs",
               "RelativeDocumentMoniker": "AppLogger.cs",
-              "ToolTip": "F:\\Programing Projects\\Abo_Hadhod\\z 24 That Last Course\\FileMonitoringService Project 1\\AppLogger.cs",
+              "ToolTip": "F:\\Programing Projects\\Abo_Hadhod\\z 24 That Last Course\\FileMonitoring Project\\FileMonitoringService Project 1\\AppLogger.cs",
               "RelativeToolTip": "AppLogger.cs",
               "ViewState": "AgIAAGIAAAAAAAAAAAAuwCAAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T15:39:51.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-09T15:39:51.318Z"
             }
           ]
         }

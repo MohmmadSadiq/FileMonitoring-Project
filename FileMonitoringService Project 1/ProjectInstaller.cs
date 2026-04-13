@@ -26,7 +26,7 @@ namespace FileMonitoringService_Project_1
             // 
             this.serviceInstaller1.Description = "Monitors configured source directories and moves files/folders to destination.";
             this.serviceInstaller1.DisplayName = "File Monitoring Service Project 1";
-            this.serviceInstaller1.ServiceName = "Service1";
+            this.serviceInstaller1.ServiceName = "FileMonitoringService";
             this.serviceInstaller1.StartType = System.ServiceProcess.ServiceStartMode.Automatic;
             this.serviceInstaller1.ServicesDependedOn = new string[] { "RpcSs", "EventLog", "LanmanWorkstation","Tcpip" };
             // 
